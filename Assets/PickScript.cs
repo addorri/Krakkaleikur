@@ -5,8 +5,6 @@ public class PickScript : MonoBehaviour {
 
 	bool picked = false;
 	Vector3 bump = new Vector3(0,0.1f,0);
-	Vector3 scaleUp = new Vector3(1.25f, 1.25f, 1.25f);
-	Vector3 scaleDown = new Vector3(0.8f, 0.8f, 0.8f);
 
 	// Use this for initialization
 	void Start () {

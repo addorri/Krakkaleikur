@@ -26,14 +26,12 @@ public class GameManager : MonoBehaviour {
 		GameObject obj = Instantiate(Resources.Load("SolidPrefab", typeof(GameObject))) as GameObject;
 		obj.transform.position = pos;
 		obj.name = name;
-		obj.tag = "SolidObject";
 	}
 
 	void CreateDragObject(string name, Vector3 pos) {
 		GameObject obj = Instantiate(Resources.Load("DragPrefab", typeof(GameObject))) as GameObject;
 		obj.transform.position = pos;
 		obj.name = name;
-		obj.tag = "DragObject";
 	}
 
 	void HideRandomSolidObject() {

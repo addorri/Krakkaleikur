@@ -1,0 +1,172 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x8007000e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nv4_disp.dll 6.15.12.6658]
+    Renderer: NVIDIA GeForce 8800 GTX
+    Vendor:   NVIDIA
+    VRAM:     64 MB (via fallback)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\users\arnar\My Documents\Krakkaleikur\asdf_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\users\arnar\My Documents\Krakkaleikur\asdf_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\users\arnar\My Documents\Krakkaleikur\asdf_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\users\arnar\My Documents\Krakkaleikur\asdf_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\users\arnar\My Documents\Krakkaleikur\asdf_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\users\arnar\My Documents\Krakkaleikur\asdf_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\users\arnar\My Documents\Krakkaleikur\asdf_Data\Managed\System.Core.dll (this message is harmless)
+178p707p628p707p819p
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MathHandler:GenerateAdditionProblemString(Int32, Int32) (at C:\users\arnar\My Documents\Krakkaleikur\Assets\MathHandler.cs:31)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:31)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/MathHandler.cs Line: 31)
+
+split1 178
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:32)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/GameManager.cs Line: 32)
+
+split2 707
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:33)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/GameManager.cs Line: 33)
+
+615m633m633m716m853m
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MathHandler:GenerateSubtractionProblemString(Int32, Int32) (at C:\users\arnar\My Documents\Krakkaleikur\Assets\MathHandler.cs:66)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:34)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/MathHandler.cs Line: 66)
+
+split3 615
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:35)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/GameManager.cs Line: 35)
+
+split4 633
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:36)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/GameManager.cs Line: 36)
+
+5
+Not 5
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:41)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/GameManager.cs Line: 41)
+
+Not 4
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:41)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/GameManager.cs Line: 41)
+
+Not 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:41)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/GameManager.cs Line: 41)
+
+Not 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:41)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/GameManager.cs Line: 41)
+
+Not 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:41)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/GameManager.cs Line: 41)
+
+Not 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:41)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/GameManager.cs Line: 41)
+
+Not 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:41)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/GameManager.cs Line: 41)
+
+Not 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameManager:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\GameManager.cs:41)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/GameManager.cs Line: 41)
+
+DragScript for drag1 started!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DragScript:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\Scripts\DragScript.cs:11)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/Scripts/DragScript.cs Line: 11)
+
+Collision Script started for drag1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CollisionScript:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\CollisionScript.cs:9)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/CollisionScript.cs Line: 9)
+
+DragScript for drag2 started!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DragScript:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\Scripts\DragScript.cs:11)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/Scripts/DragScript.cs Line: 11)
+
+Collision Script started for drag2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CollisionScript:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\CollisionScript.cs:9)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/CollisionScript.cs Line: 9)
+
+DragScript for drag3 started!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DragScript:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\Scripts\DragScript.cs:11)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/Scripts/DragScript.cs Line: 11)
+
+Collision Script started for drag3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CollisionScript:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\CollisionScript.cs:9)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/CollisionScript.cs Line: 9)
+
+CheckButtonScript started!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+CheckButtonScript:Start() (at C:\users\arnar\My Documents\Krakkaleikur\Assets\CheckButtonScript.cs:8)
+ 
+(Filename: C:/users/arnar/My Documents/Krakkaleikur/Assets/CheckButtonScript.cs Line: 8)
+

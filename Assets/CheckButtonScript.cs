@@ -22,6 +22,7 @@ public class CheckButtonScript : MonoBehaviour {
 	}
 
 	void OnMouseDown() {
+		int[] u = MathHandler.NotThisNumber(7);
 		GameManager.CheckSolution();
 	}
 }

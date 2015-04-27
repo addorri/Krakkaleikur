@@ -6,6 +6,7 @@ public class CheckButtonScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		Debug.Log("CheckButtonScript started!");
+		gameObject.name = "CheckButton";
 	}
 	
 	// Update is called once per frame

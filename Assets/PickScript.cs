@@ -18,7 +18,7 @@ public class PickScript : MonoBehaviour {
 
 	void OnMouseDown() {
 		picked = !picked;
-
+		GameManager.UnpickOthers(gameObject);
 		if(picked) {
 			this.transform.position += bump;
 			this.transform.localScale *= 1.25f;
@@ -29,4 +29,11 @@ public class PickScript : MonoBehaviour {
 		} 
 	}
 
+	public void Unpick() {
+		if(picked) {
+		picked = false;
+		this.transform.position -= bump;
+		this.transform.localScale *= 0.8f;
+		}
+	}
 }

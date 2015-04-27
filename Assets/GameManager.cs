@@ -140,4 +140,12 @@ public class GameManager : MonoBehaviour {
 		}
 	}
 
+	public static void UnpickOthers(GameObject obj) {
+		foreach(GameObject other in pickObjects) {
+			if(!obj.Equals(other)) {
+				other.GetComponent<PickScript>().Unpick();
+			}
+		}
+	}
+
 }
